@@ -1,0 +1,31 @@
+{
+    "mensajes" : [
+        {
+            "imagen": "https://i.ibb.co/JvbRKsn/Ellipse9.png",
+            "usuario": "Maria Dolores",
+            "hora_enviado": ["4:12 PM", "5:25 PM"],
+            "hora_recibido": ["4:38 PM", "6:10 PM"],
+            "enviado": ["¡Hola! Me encantaría adoptar a Rocky.", "Está super, ¿te parece bien mañana en el parque?"],
+            "recibido": ["¡Hola! claro, podemos acordar un lugar y hora para que conoscas a Rocky.", "Si, mañana me queda muy bien, ¿a qué horas?"],
+            "id" : 0
+        },
+        {
+            "imagen": "https://i.ibb.co/0jk5rR8/Ellipse10.png",
+            "usuario": "Enrique Gómez",
+            "hora_enviado": ["1:00 PM", "1:30 PM"],
+            "hora_recibido": ["1:12 PM", "3:00 PM"],
+            "enviado": ["¡Hola! Me encantaría adoptar a Cheser", "¡Estupendo!, ¿suelta mucho pelo?"],
+            "recibido": ["Si! claro, Chester es el perrito más cariñoso, en especial con los niños.", "Con los cuidados adecuados, el pelaje de Chester será muy sano, no te preocupes"],
+            "id" : 1
+        },
+        {
+            "imagen": "https://i.ibb.co/JvbRKsn/Ellipse9.png",
+            "usuario": "Sofia Álvarez",
+            "hora_enviado": ["8:12 AM", "10:13 PM"],
+            "hora_recibido": ["9:15 AM", "11:00 PM"],
+            "enviado": ["¡Hola! Me encantaría adoptar a Papi.", "Si claro, tengo experiencia cuidando mascotas, ¿Crees que se lleve bien con otros perros?"],
+            "recibido": ["¡Hola! que buena noticia, ¿eres responsable?.", "Si, Papi es muy amistoso y juguetón, se lleva bien con todos los perros"],
+            "id" : 2
+        }
+    ]
+}
