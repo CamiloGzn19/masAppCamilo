@@ -1,5 +1,3 @@
-import getData from "./getData.js";
-import mostrarDTMensajes from './mostrarDTMensajes.js'
 let espacio = document.querySelector('.contenedor')
 
 const getLocalStorage = () => {

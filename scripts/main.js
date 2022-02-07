@@ -1,10 +1,9 @@
 import getData from "./getData.js";
-import { mostrarMascotas } from "./mostrarMascotas.js";
+import { mostrarMascotas } from "./mostrar.js";
 
 let btnPerro = document.getElementById("btnPerro");
 let btnGato = document.getElementById("btnGato");
 let mostrarElementos = document.querySelector(".space");
-let modal = document.getElementById("myModal");
 
 const getEle = async (url) => {
   mostrarElementos.innerHTML = ''
@@ -33,3 +32,4 @@ mostrarElementos.addEventListener("click", async (e) => {
     window.location.href = "detalle.html";
   }
 });
+

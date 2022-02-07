@@ -55,21 +55,26 @@
       "categoria": "perro"
     },
     {
-      "nombre": "Matilde",
-      "raza": "British Shorthair",
-      "edad": "6 Meses",
-      "ubicacion": "4140 Parker Rd. Allentown, New Mexico 31134",
+      "nombre": "Cosnia",
+      "raza": "Siames",
+      "edad": "2 años",
+      "ubicacion": "Calle 45-120b 138 - Santa Fé, Bogotá",
       "personalidad": [
-        "Juguetón",
+        "Inquieto",
         "Tierno",
-        "Inquieto"
+        "Cariñoso"
       ],
-      "historia": "Matilde es la mejor guarda espaldas, siempre esta ahi para conversar y recibirte cada día con un gran cariño. Fue rescatada y busca una persona que le pueda dar todo el amor que ella necesita.",
-      "usuario": "Junior López",
-      "imgusuario": "https://i.ibb.co/8M069vD/Jrjesus.png",
-      "imagen": "https://i.ibb.co/4g8GDH8/gato1.jpg",
+      "imgpersonalidad": [
+        "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_Inquieto_ojr9do.png",
+        "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086158/Sprint%201/Property_1_Tierno_psnwfm.png",
+        "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086161/Sprint%201/Property_1_Cari%C3%B1oso_tdpzhy.png"
+      ],
+      "historia": "Bosnia fue recogida de la calle, la usaban para criar hijos y la dejaban de nuevo en la calle, espera un hogar donde por fin la acepten y le den mucho amor, es tranquila y algo perezosa.",
+      "usuario": "Camilo Garzón",
+      "imgusuario": "https://i.ibb.co/hR5BMh8/Jr.png",
+      "imagen": "https://i.ibb.co/gDFRRCp/gato8.jpg",
       "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
-      "id": 10,
+      "id": 17,
       "categoria": "gato"
     }
   ]

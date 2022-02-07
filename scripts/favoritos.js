@@ -1,5 +1,5 @@
 import getData from "./getData.js";
-import { mostrarMascotas } from "./mostrarMascotas.js";
+import { mostrarMascotas } from "./mostrar.js";
 let url = "http://localhost:2500/favoritos"
 
 let mostrarElementos = document.querySelector(".FMascotas");

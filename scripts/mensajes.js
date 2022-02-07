@@ -1,5 +1,5 @@
 import getData from "./getData.js";
-import mostrarMensajes from './mostrarMensajes.js'
+import {mostrarMensajes} from './mostrar.js'
 
 const endpoint= "http://localhost:1000/mensajes"
 const espacio = document.querySelector('.card-mensaje');

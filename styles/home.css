@@ -59,7 +59,7 @@ body {
   margin-left: -5px;
 }
 
-.botones :active{
+.botones :focus{
   background: #0e172c;
   opacity: 1;
   border-radius: 8px;
