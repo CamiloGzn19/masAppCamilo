@@ -10,8 +10,8 @@
             "historia": "Chester es un perro muy valiente y leal, por lo general suele ser muy tranquilo, casi ni se siente en la casa, además es muy cariñoso y obediente . La razón por la cual nos tenemos que separar de él es porque nos vamos a ir a vivir al exterior y él desafortunadamente no nos puede acompañar, entonces estamos en busca de una persona que lo sepa cuidar con todo el corazón.",
             "usuario": "Camilo Garzón",
             "imgusuario": "https://i.ibb.co/8M069vD/Jrjesus.png",
-            "imagen": "https://i.ibb.co/nsxG80m/perro2.jpg",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "imagen": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086160/Sprint%201/perro2_fb7m1o.jpg",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id": 20,
             "categoria": "perro"
         },
@@ -26,7 +26,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario": "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://i.ibb.co/WDfQyqB/perro1.jpg",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id": 1,
             "categoria": "perro"
         },
@@ -41,7 +41,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario": "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://i.ibb.co/tHgRQZh/perro3.jpg",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id": 2,
             "categoria": "perro"
         },
@@ -56,7 +56,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario": "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://i.ibb.co/tpxYdr8/perro4.jpg",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id": 3,
             "categoria": "perro"
         },
@@ -71,7 +71,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario": "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://i.ibb.co/cC4RvPd/Mastin-italiano.png",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id": 4,
             "categoria": "perro"
         },
@@ -86,7 +86,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario": "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644200283/Sprint%201/shafir_ogipwz.jpg",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id": 5,
             "categoria": "perro"
         },
@@ -101,7 +101,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario": "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://i.ibb.co/K0gdq2s/Pitbull.png",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id": 6,
             "categoria": "perro"
         },
@@ -116,7 +116,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644200390/Sprint%201/Charlie_qlqy5h.png",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id" : 7,
             "categoria": "perro"
         },
@@ -131,7 +131,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644204176/Sprint%201/pastor-aleman_crneb0.jpg",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id" : 8,
             "categoria": "perro"
         },
@@ -146,7 +146,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644200703/Sprint%201/yoel_cxfoz5.png",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id" : 9,
             "categoria": "perro"
         },
@@ -161,7 +161,7 @@
             "usuario" : "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://i.ibb.co/4g8GDH8/gato1.jpg",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id": 10,
             "categoria": "gato"
         },
@@ -176,7 +176,7 @@
             "usuario" : "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://i.ibb.co/rKBf4Z4/gato2.jpg",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id": 11,
             "categoria": "gato"
         },
@@ -191,7 +191,7 @@
             "usuario" : "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://i.ibb.co/HB5nHCb/gato3.jpg",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id" : 12,
             "categoria": "gato"
         },
@@ -206,7 +206,7 @@
             "usuario" : "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://i.ibb.co/rZWphyC/gato4.jpg",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id" : 13,
             "categoria": "gato"
         },
@@ -221,7 +221,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644201153/Sprint%201/ragdoll_piyqsy.jpg",
-            "genero": "https://i.ibb.co/xFWqvbb/Component-5.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644161963/Sprint%201/Component_5_vm6zfr.png",
             "id" : 14,
             "categoria": "gato"
         },
@@ -236,7 +236,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644201035/Sprint%201/munchkin_islvpc.jpg",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id" : 15,
             "categoria": "gato"
         },
@@ -251,7 +251,7 @@
             "usuario": "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/8M069vD/Jrjesus.png",
             "imagen": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644200895/Sprint%201/minino_sl6ptp.jpg",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id" : 16,
             "categoria": "gato"
         },
@@ -259,14 +259,14 @@
             "nombre": "Cosnia",
             "raza": "Siames",
             "edad": "2 años",
-            "ubicacion": "Calle 45-120b 138 - Santa Fé, Bogotá",
+            "ubicacion": "Calle 126 B bis 118 D 42",
             "personalidad": ["Inquieto", "Tierno", "Cariñoso"],
             "imgpersonalidad": ["https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_Inquieto_ojr9do.png", "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086158/Sprint%201/Property_1_Tierno_psnwfm.png", "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086161/Sprint%201/Property_1_Cari%C3%B1oso_tdpzhy.png"],
             "historia" : "Bosnia fue recogida de la calle, la usaban para criar hijos y la dejaban de nuevo en la calle, espera un hogar donde por fin la acepten y le den mucho amor, es tranquila y algo perezosa.",
             "usuario": "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/hR5BMh8/Jr.png",
             "imagen": "https://i.ibb.co/gDFRRCp/gato8.jpg",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id" : 17,
             "categoria": "gato"
         },
@@ -274,14 +274,14 @@
             "nombre": "Masha",
             "raza": "Himalayo",
             "edad": "4 años",
-            "ubicacion": "Calle 45-120b 138 - Santa Fé, Bogotá",
+            "ubicacion": "Calle 126 B bis 118 D 42",
             "personalidad": ["Cariñoso","Inquieto", "Juguetón"],
             "imgpersonalidad": ["https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086161/Sprint%201/Property_1_Cari%C3%B1oso_tdpzhy.png", "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_Inquieto_ojr9do.png", "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_Jugueton_vtivi0.png"],
             "historia" : "Marshmello es un gato amoroso y seguro de sí mismo que está listo para cualquier aventura. Le encanta jugar con otros gatos y le encantaría unirse a una casa que ya tiene un gato para poder tener otros amigos con quienes jugar. Es muy activo y necesita una casa con un jardín y una familia que pueda satisfacer sus necesidades.",
             "usuario": "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/hR5BMh8/Jr.png",
             "imagen": "https://i.ibb.co/938xpLv/Gato-himalayo.png",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id" : 18,
             "categoria": "gato"
         },
@@ -289,14 +289,14 @@
             "nombre": "Logan",
             "raza": "Tonkinés",
             "edad": "2 años",
-            "ubicacion": "Calle 45-120b 138 - Santa Fé, Bogotá",
+            "ubicacion": "Calle 126 B bis 118 D 42",
             "personalidad": ["Cariñoso", "Juguetón", "Tierno"],
             "imgpersonalidad": ["https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086161/Sprint%201/Property_1_Cari%C3%B1oso_tdpzhy.png", "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_Jugueton_vtivi0.png", "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086158/Sprint%201/Property_1_Tierno_psnwfm.png"],
             "historia" : "Super dulce y juguetona. Logan será una gran adición a cualquier hogar.",
             "usuario": "Camilo Garzón",
             "imgusuario" : "https://i.ibb.co/hR5BMh8/Jr.png",
             "imagen": "https://i.ibb.co/z7PQPc6/GATO-TONKIN-S.png",
-            "genero": "https://i.ibb.co/QbnsP1H/Property-1-female.png",
+            "genero": "https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086162/Sprint%201/Property_1_female_vwtopg.png",
             "id" : 19,
             "categoria": "gato"
         }
