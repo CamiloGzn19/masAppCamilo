@@ -5,8 +5,9 @@ let fav = "http://localhost:2500/favoritos"
 
 const getLocalStorage = () => {
    const det = JSON.parse(localStorage.getItem("Detalle"));
-   const {imagen,nombre,raza,edad,ubicacion,imgusuario,personalidad,historia,usuario,id,genero } = det;
+   const {imagen,nombre,raza,edad,ubicacion,imgusuario,personalidad,imgpersonalidad,historia,usuario,id,genero } = det;
    grupo.innerHTML += `
+   <img class="back" src="https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086158/Sprint%201/back_nccoa3.png">
    <div>
    <img class="principal" src="${imagen}" alt="">
  </div>
@@ -35,16 +36,16 @@ const getLocalStorage = () => {
    <div class="personalidad">
      <h2>Personalidad</h2>
      <div>
-       <img src="./Images/Property 1=Cariñoso.png" alt="">
-       <p>Cariñoso</p>
+       <img src="${imgpersonalidad [0]}" alt="">
+       <p>${personalidad [0]}</p>
      </div>
      <div>
-       <img src="./Images/Property 1=Cariñoso.png" alt="">
-       <p>Inquieto</p>
+       <img src="${imgpersonalidad [1]}" alt="">
+       <p>${personalidad [1]}</p>
      </div>
      <div>
-       <img src="./Images/Property 1=Cariñoso.png" alt="">
-       <p>Juguetón</p>
+       <img src="${imgpersonalidad [2]}" alt="">
+       <p>${personalidad [2]}</p>
      </div>
    </div>
    <div class="historia">
@@ -71,35 +72,11 @@ grupo.addEventListener('click', (e) => {
 
     if(e.target.classList.contains('contact')){
         window.location.href = "mensajes.html";
+    }else if(e.target.classList.contains('back')){
+      window.location.href = "home.html";
     }
  
 })
-
-// grupo.addEventListener("click", async (e) => {
-//   const btnDetalle = e.target.classList.contains('favorito');
-//   const id = e.target.id;
-
-//   if (btnDetalle) {
-//     const lista = await getData(url);
-//     const objeto = lista.find((list) => list.id === Number(id));
-//     localStorage.setItem("Favorito", JSON.stringify(objeto));
-//     window.location.href = "favoritos.html";
-//   }
-// });
-
-// grupo.addEventListener('submit', async (e) => {
-//   e.preventDefault();
-//   const objeto = JSON.parse(localStorage.getItem("Detalle"));
-
-//   await fetch(fav, {
-//       method: 'POST',
-//       body: JSON.stringify(objeto),
-//       headers: {
-//           "Content-Type": "application/json; charset=utf-8"
-//       }
-//   })
-
-// })
 
 grupo.addEventListener("click", async (e) => {
   const btnDetalle = e.target.classList.contains('favorito');

@@ -25,7 +25,7 @@
 .line1 {
   display: flex;
   align-items: center;
-  margin-top: -40px;
+  margin-top: -30px;
 }
 
 .line1 .name {
@@ -34,6 +34,7 @@
   font-weight: 800;
   font-size: 24px;
   line-height: 33px;
+  margin-top: 15px;
 }
 
 .line1 .genero {
@@ -41,14 +42,17 @@
   height: 32px;
   margin-left: 10px;
   margin-bottom: 5px;
+  margin-top: 15px;
 }
 
 .line1 button {
+  position: absolute;
   width: 70px;
   height: 70px;
   border: 0;
   background-color: transparent;
-  margin-left: 160px;
+  margin-top: 16px;
+  margin-left: 260px;
 }
 
 .line1 img {
@@ -70,6 +74,7 @@
   align-content: center;
   display: flex;
   width: 50%;
+  margin-top: 15px;
 }
 
 .line2 .raza img {
@@ -87,6 +92,7 @@
   align-content: center;
   display: flex;
   width: 50%;
+  margin-top: 15px;
 }
 
 .line2 .edad img {
@@ -211,7 +217,7 @@
   align-items: flex-start;
   padding: 0px;
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
   left: 24px;
   top: 363px;
   flex: none;
@@ -262,7 +268,7 @@
   align-items: center;
   padding: 0px;
   position: static;
-  width: 156px;
+  width: 168px;
   height: 48px;
   left: 0px;
   top: 0px;
@@ -284,6 +290,7 @@
   font-weight: bold;
   font-size: 14px;
   line-height: 19px;
+  width: 100px;
 }
 
 .textos {
@@ -306,3 +313,19 @@
   margin-bottom:0;
 }
 
+button{
+  margin-left:10px;
+}
+
+.back{
+  position: absolute;
+  top: 12px;
+  left: 15px;
+  border: 0;
+}
+
+@media screen and (max-width: 991px) {
+
+
+  
+}

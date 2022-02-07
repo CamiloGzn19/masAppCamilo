@@ -7,6 +7,7 @@ const getLocalStorage = () => {
    const det = JSON.parse(localStorage.getItem("Detalle"));
    const {imagen,nombre,raza,edad,ubicacion,personalidad,historia,genero,imgusuario,usuario,id } = det;
    grupo.innerHTML += `
+   <img class="back" src="https://res.cloudinary.com/dilwbkj5s/image/upload/v1644086158/Sprint%201/back_nccoa3.png">
    <div>
    <img class="principal" src="${imagen}" alt="">
  </div>
@@ -59,7 +60,7 @@ const getLocalStorage = () => {
          <h3 class="nom_publicador">${usuario}</h3>
        </div>
      </div>
-     <button class="contactar">Contactar</button>
+     <button class="contact">Contactar</button>
    </div>
  </div>
    `
@@ -71,6 +72,8 @@ grupo.addEventListener('click', (e) => {
 
     if(e.target.classList.contains('contact')){
         window.location.href = "mensajes.html";
+    }else if(e.target.classList.contains('back')){
+      window.location.href = "favoritos.html";
     }
 })
 

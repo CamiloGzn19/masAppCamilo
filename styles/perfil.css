@@ -137,3 +137,11 @@ input {
 .formulario p.email{
   margin-right: 265px;
 }
+
+@media screen and (min-width: 750px) {
+
+  .titulo {
+    text-align: center;
+  }
+  
+}
