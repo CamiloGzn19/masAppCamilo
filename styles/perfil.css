@@ -58,8 +58,8 @@ form {
   justify-content: center;
   align-items: center;
   padding: 0px;
-  /* position: absolute; */
   width: 100%;
+  margin-top: 20px;
   height: 136px;
   left: 141px;
   top: 113px;
@@ -118,6 +118,7 @@ input {
   border: 1px solid #535353;
   box-sizing: border-box;
   border-radius: 4px;
+  padding-left: 10px;
 }
 
 .formulario p {

@@ -59,7 +59,7 @@ const getLocalStorage = () => {
          <h3 class="nom_publicador">${usuario}</h3>
        </div>
      </div>
-     <button class="contactar">Contactar</button>
+     <button class="contact">Contactar</button>
    </div>
  </div>
    `

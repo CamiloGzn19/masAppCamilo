@@ -4,6 +4,7 @@ import { mostrarMascotas } from "./mostrarMascotas.js";
 let btnPerro = document.getElementById("btnPerro");
 let btnGato = document.getElementById("btnGato");
 let mostrarElementos = document.querySelector(".space");
+let modal = document.getElementById("myModal");
 
 const getEle = async (url) => {
   mostrarElementos.innerHTML = ''
@@ -13,7 +14,6 @@ const getEle = async (url) => {
 
 btnPerro.addEventListener("click", () => {
   getEle('http://localhost:3001/perros')
-  btnPerro.style.background = ""
 });
 
 btnGato.addEventListener("click", () => {
